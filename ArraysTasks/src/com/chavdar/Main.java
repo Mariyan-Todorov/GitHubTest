@@ -10,7 +10,6 @@ public class Main {
 
         System.out.println("I love musaka ;)");
         //error
-        System.out.println("I'm 19 years old")
 
         System.out.println("I'm 19 years old");
 

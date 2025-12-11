@@ -10,7 +10,10 @@ public class Main {
 
         System.out.println("I love musaka ;)");
 
-        System.out.println("I'm 19 years old")
+        System.out.println("I'm 19 years old");
+
         System.out.println("I love musaka copy;)");
+
+        System.out.println("I hate maths!");
     }
 }
